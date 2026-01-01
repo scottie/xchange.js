@@ -22,7 +22,7 @@
     }
   ],
   "dependencies": {
-    "superagent": "^0.21.0"
+    "superagent": "^10.2.2"
   },
   "devDependencies": {
     "chai": "^1.10.0",
